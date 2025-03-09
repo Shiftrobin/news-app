@@ -1,6 +1,9 @@
 # news-app
 News App build on React Native Cli
 
+# Get a news api 
+https://newsapi.org/
+
 ##
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
