@@ -1,8 +1,8 @@
 # news-app
 News App build on React Native Cli
 
-# Get a news api and put it in config.ts
-https://newsapi.org/
+# news api
+Get a news api from https://newsapi.org/ and put it in config.ts 
 
 ##
 
